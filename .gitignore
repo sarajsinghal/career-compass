@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.streamlit/secrets.toml
+data/documents/*
+data/index.npz
+data/chunks.json
+*.py[cod]
