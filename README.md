@@ -1,6 +1,8 @@
 # Career Knowledge Assistant (Hindi + English)
 
-A beginner-friendly, local-first RAG app for asking questions about resumes, job descriptions, certificates, career guides, and spreadsheet data. It accepts PDF, DOCX, TXT, XLSX, and legacy XLS files, finds matching passages across Hindi and English, and shows the source file and page/section/sheet-row for each answer.
+A local-first retrieval-augmented generation (RAG) application for querying resumes, job descriptions, certificates, career guides, and spreadsheet data. It accepts PDF, DOCX, TXT, XLSX, and legacy XLS files, retrieves relevant passages across Hindi and English, and identifies each source by file and page, section, or worksheet row.
+
+**Live app:** https://career-compass-bpyji.streamlit.app/
 
 ## 1. What happens when you ask a question?
 
